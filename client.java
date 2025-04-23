@@ -2,7 +2,7 @@
 
 /*
    * Filename:        client.java
-   * Author:          Tekhour Khov
+   * Author:          BONHOMIE BG
    * Date Created:    4/20/2025
    * Description:     Bank Management System that allows user to create an account, deposit, withdraw, transfer money, check balance and request user details.
    *                The system is designed to be user-friendly and easy to use. This system is designed to be used by both new and existing customers.
