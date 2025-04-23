@@ -1,3 +1,5 @@
+// THIS FILE IS STILL UNDER DEVELOPMENT, USE AT YOUR OWN RISK FOR BUGS AND UNSTABILITY.
+
 /*
    * Filename:        client.java
    * Author:          Tekhour Khov
