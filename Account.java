@@ -1,3 +1,11 @@
+// Copyright (c) 2025 Tekhour Khov
+// All rights reserved.
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+//
+// This class handles the account information of a user.
+
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Account {

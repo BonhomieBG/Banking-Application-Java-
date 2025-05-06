@@ -1,3 +1,11 @@
+// Copyright (c) 2025 Tekhour Khov
+// All rights reserved.
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+//
+// This class handes Account creation and user input for creating new accounts
+
 import java.time.LocalDate;
 import javax.swing.JOptionPane;
 

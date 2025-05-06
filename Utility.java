@@ -1,3 +1,13 @@
+// Copyright (c) 2025 Tekhour Khov
+// All rights reserved.
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation. 
+//
+// Contain all nesscessary methods for current implementation of banking system in client class
+//
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
